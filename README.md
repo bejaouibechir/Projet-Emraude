@@ -1,6 +1,7 @@
 # CED-III
 
-Introduction aux micro services et Architecture
+Introduction aux micro services et Architecture:
+
 - Concepts clés : découpage, indépendance, communication
 
 - Principes de conception d'architecture de micro services.
