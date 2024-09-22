@@ -52,7 +52,6 @@ data:
     [mysqld]
     sql_mode=STRICT_TRANS_TABLES
     max_connections=200
-    log_error=/var/log/mysql/error.log
 ```
 
 ### 4. Utiliser le ConfigMap dans le Déploiement MySQL
