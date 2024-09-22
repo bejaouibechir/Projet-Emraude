@@ -15,7 +15,6 @@ Disons que vous avez un fichier de configuration MySQL nommé `my-custom.cnf` qu
 [mysqld]
 sql_mode=STRICT_TRANS_TABLES
 max_connections=200
-log_error=/var/log/mysql/error.log
 ```
 
 Ce fichier définit quelques options comme le mode SQL, le nombre maximum de connexions, et l'emplacement du fichier de log d'erreurs.
