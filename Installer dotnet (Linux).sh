@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Note: Pour créer une application qui utilise des controllers il faut appliquer cette commande dotnet new webapi -n MyNetApp --use-controllers
+
 # Mettre à jour les paquets
 echo "Mise à jour des paquets..."
 sudo apt-get update -y
