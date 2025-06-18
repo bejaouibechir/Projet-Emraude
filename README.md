@@ -1,9 +1,9 @@
 # Projet Emraude 
 ## Projet élaboré pour le compte de la société Emeraude it Paris
-https://emeraude-it.com/
-ADRESSE : 10 Rue de Penthièvre, 75008 Paris 
-Responable: Monsieur Thameur Kheribi
-thameur.kheribi@emeraude-it.com
+- https://emeraude-it.com/
+- ADRESSE : 10 Rue de Penthièvre, 75008 Paris 
+- Responable: Monsieur Thameur Kheribi
+- thameur.kheribi@emeraude-it.com
 
 
 Voici une proposition d’introduction structurée pour un projet de **migration d’une application .NET Core monolithique vers une architecture microservices** :
@@ -51,7 +51,3 @@ La migration sera planifiée en plusieurs étapes :
    * `Design-Patterns`
    * `Threading`
 5. Intégration continue, tests et supervision dans une optique de **mise en production maîtrisée**.
-
----
-
-Souhaitez-vous que je vous prépare également un **plan de migration détaillé** ou un **README technique** pour le dépôt GitHub associé ?
