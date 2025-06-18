@@ -43,11 +43,11 @@ La migration sera planifiée en plusieurs étapes :
 3. Mise en place des **principes d’architecture** : communication interservices (REST, gRPC, messaging), gestion des données (BD par microservice), sécurité, etc.
 4. Migration progressive des modules selon des branches thématiques :
 
-   * `Architecture-Microservices`
-   * `Communication-Microservices`
-   * `Contenerisation-Microservices`
-   * `DataAccess`
-   * `Sécurité`
-   * `Design-Patterns`
-   * `Threading`
+   * `Architecture-Microservices` : https://github.com/bejaouibechir/Projet-Emraude/tree/Architecture-Microservices
+   * `Communication-Microservices` : https://github.com/bejaouibechir/Projet-Emraude/tree/Architecture-Microservices
+   * `Contenerisation-Microservices`: https://github.com/bejaouibechir/Projet-Emraude/tree/Contenerisation-microservices
+   * `DataAccess`: https://github.com/bejaouibechir/Projet-Emraude/tree/DataAccess
+   * `Sécurité`: https://github.com/bejaouibechir/Projet-Emraude/tree/Design-Patterns
+   * `Design-Patterns`: https://github.com/bejaouibechir/Projet-Emraude/tree/Securit%C3%A9
+   * `Threading`: https://github.com/bejaouibechir/Projet-Emraude/tree/Threading
 5. Intégration continue, tests et supervision dans une optique de **mise en production maîtrisée**.
